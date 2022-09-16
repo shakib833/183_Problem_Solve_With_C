@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main()
+int main()
 {
     int score,grade;
     printf("Enter your score: ");
@@ -27,5 +27,5 @@ void main()
         break;
 
     }
-    getch();
+    
 }
